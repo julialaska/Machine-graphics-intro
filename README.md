@@ -1,1 +1,2 @@
-# Machine-graphics-intro
+# Introduction to Machine Graphics
+### own implementation of Image library
